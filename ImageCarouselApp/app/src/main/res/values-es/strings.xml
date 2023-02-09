@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="play_button_text">REPRODUCIR</string>
+    <string name="pause_button_text">PAUSAR</string>
+    <string name="stop_button_text">DETENER</string>
+</resources>
